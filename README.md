@@ -30,7 +30,7 @@ See below for more information on setting up the conda environment.
         b. conda activate plexus_test
         c. conda install -c conda-forge pydot
 
-#Running the sample code
+## Running the sample code
 
 1. Activate conda environment
         
